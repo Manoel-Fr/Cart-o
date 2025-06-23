@@ -48,7 +48,7 @@
   
   <img align="center" height="30"  src="https://help.tableau.com/current/blueprint/pt-br/Resources/tableau-logo.png"> -->
 <div>
-<div>
+</div>
 
 
  #### Social
