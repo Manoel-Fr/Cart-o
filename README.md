@@ -39,8 +39,8 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/oracle/oracle-original.svg"> -->
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg">
 </div>
+
   
- #### Outros
 <div style="display: inline_block"><br>
 <!-- <img align="center" height="30"  src="https://i.imgur.com/BtbTBJu.png">
 
