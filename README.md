@@ -33,7 +33,8 @@
 
 ### Bancos
 <div style="display: inline_block"><br>
-<!--   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg"> -->
+  <img align="center" height="30" width="40" src="https://img.shields.io/badge/-SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"> 
+
 <!--   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/oracle/oracle-original.svg"> -->
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg">
